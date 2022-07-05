@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm Aanan Munna</h1>  <h3>A passionate front-end developer from Bangladesh</h3>
 
-<h3>About Me </h3> <hr/>
+<h3>About Me </h3>
 <p>I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication.</p>
 
 <h3 align="left">Connect with me:</h3>
