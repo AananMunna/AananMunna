@@ -1,9 +1,18 @@
-<img src="https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/292441490_177467064657151_5338780753409863048_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=B3kviwch3L4AX-VpaTa&_nc_ht=scontent.fdac41-1.fna&oh=00_AT_HKwjPMjitaQDCDW7Nuic_Wy6v7KQI-7ftmM9b-Es6ag&oe=62E627AD" />
+<img src="[https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/292441490_177467064657151_5338780753409863048_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=B3kviwch3L4AX-VpaTa&_nc_ht=scontent.fdac41-1.fna&oh=00_AT_HKwjPMjitaQDCDW7Nuic_Wy6v7KQI-7ftmM9b-Es6ag&oe=62E627AD](https://www.facebook.com/photo/?fbid=191313420068338&set=a.191313423401671)" />
 
-<h1>Hi 👋, I'm Aanan Munna</h1>  <h3>A passionate front-end developer from Bangladesh</h3>
+<h1>Hi 👋, I'm Aanan Munna</h1>  <h3>I am a Front End Web Developer</h3>
 
 <h3>About Me </h3>
-<h4>I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication.</h4>
+<h4>I am an experienced front-end developer with a passion for creating visually appealing, user-friendly websites and applications. With an eye for design and a strong understanding of HTML, CSS, and JavaScript, I bring ideas to life with elegant, responsive code.</h4>
+
+<h3>My Skills<h3/>
+  <ul>
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>Bootstrap</li>
+    <li>Javascript</li>
+     <li>react.js</li>
+  </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
