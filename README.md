@@ -1,6 +1,6 @@
-<img src="[https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/292441490_177467064657151_5338780753409863048_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=B3kviwch3L4AX-VpaTa&_nc_ht=scontent.fdac41-1.fna&oh=00_AT_HKwjPMjitaQDCDW7Nuic_Wy6v7KQI-7ftmM9b-Es6ag&oe=62E627AD](https://www.facebook.com/photo/?fbid=191313420068338&set=a.191313423401671)" />
+<img src="https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/292441490_177467064657151_5338780753409863048_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=YQRq1NIQZN4AX_m13DP&_nc_ht=scontent.fdac7-1.fna&oh=00_AfCO4UOCCMVp4VVXePH7lac2-U9xBKiwfY_p8TvnypuKiA&oe=63E347AD" />
 
-<h1>Hi 👋, I'm Aanan Munna</h1>  <h3>I am a Front End Web Developer</h3>
+<h1>Hi 👋, I'm Aanan Munna</h1>  <h2>I am a Front End Web Developer</h2>
 
 <h3>About Me </h3>
 <h4>I am an experienced front-end developer with a passion for creating visually appealing, user-friendly websites and applications. With an eye for design and a strong understanding of HTML, CSS, and JavaScript, I bring ideas to life with elegant, responsive code.</h4>
