@@ -3,7 +3,7 @@
 <h1>Hi 👋, I'm Aanan Munna</h1>  <h2>I am a Front End Web Developer</h2>
 
 <h3>About Me </h3>
-<h4>I am an experienced front-end developer with a passion for creating visually appealing, user-friendly websites and applications. With an eye for design and a strong understanding of HTML, CSS, and JavaScript, I bring ideas to life with elegant, responsive code.</h4>
+<h4>Hi there! I'm a Front End Web Developer with a passion for crafting visually stunning and intuitive web experiences. My expertise lies in HTML, CSS, JavaScript, and various front-end frameworks such as React and Vue.js. I have a strong eye for detail, and I am always striving for the perfect user interface. In my free time, I enjoy exploring the latest web development trends and experimenting with new technologies. Let's build something amazing together!</h4>
 
 <h3>My Skills<h3/>
   <ul>
