@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Welcome+to+My+Code+Lab;I+am+Aanan+Munna;MERN+Stack+Craftsman;Always+Building%2C+Always+Breaking" alt="Typing SVG" />
   <h1 style="border-bottom: none;">🚀 Aanan Munna</h1>
-  <p><em>Frontend-Focused Full Stack Developer | MERN Stack | Firebase | TailwindCode poet. System thinker. Product dreamer.</em></p>
+  <p><em>Frontend-Focused Full Stack Developer | MERN Stack | Firebase | Tailwind | Code poet | System thinker | Product dreamer.</em></p>
 </div>
 
 ---
