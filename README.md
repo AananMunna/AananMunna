@@ -59,8 +59,9 @@ _E-Commerce, yes. But elegant, responsive, and efficient._
 
 🤝 **Let’s Create Something Together**
 - Portfolio: *coming soon*
-- Email: [contact@aanan.dev](mailto:contact@aanan.dev)
-- LinkedIn: [linkedin.com/in/aananmunna](https://linkedin.com/in/aananmunna)
+- Email: [aananmunna420@gmail.com](mailto:aananmunna420@gmail.com)  
+- LinkedIn: [linkedin.com/in/aanan-munna-6948b8245](https://www.linkedin.com/in/aanan-munna-6948b8245/)
+
 
 ---
 
